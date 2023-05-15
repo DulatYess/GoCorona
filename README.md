@@ -2,7 +2,7 @@
 
 ## Предварительный просмотр | Preview
 
-[![Landing Page Preview](https://ltdfoto.ru/images/2023/05/15/GoCorona.png)
+![Landing Page Preview](https://ltdfoto.ru/images/2023/05/15/GoCorona.png)
 
 <!-- **[View Live](https://dulatyess.github.io/Bicycle/)** -->
 
